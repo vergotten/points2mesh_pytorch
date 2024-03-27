@@ -1,0 +1,37 @@
+# conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=9.0 -c pytorch
+# conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=10.1 -c pytorch
+Pillow==6.2.2
+open3d==0.9.0
+torch
+PyMCubes
+cython
+plyfile
+tensorboardX
+scipy
+numpy
+Shapely
+pandas
+matplotlib
+trimesh
+PyYAML
+scikit-learn
+pyquaternion
+tqdm
+quaternion
+xxhash
+# Database connectors
+psycopg2==2.9.1  # For PostgreSQL
+mysql-connector-python==8.0.26  # For MySQL
+pyodbc==4.0.32  # For ODBC connections, including MS SQL Server
+
+# SQL toolkit and Object-Relational Mapping (ORM) for Python
+SQLAlchemy==1.4.23
+
+# Lightweight disk-based database
+sqlite3  # This is included in the Python standard library
+
+# Python SQL toolkit and Object Document Mapper
+MongoEngine==0.23.1  # For MongoDB
+
+# A simple database engine, not only for SQLite
+dataset==1.5.0

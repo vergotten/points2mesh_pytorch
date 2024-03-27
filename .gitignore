@@ -1,0 +1,5 @@
+.idea
+.git
+exp/**/*
+tools/*
+pointgroup_phase2_scannet-000000256.pth
