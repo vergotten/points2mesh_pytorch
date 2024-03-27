@@ -1,4 +1,12 @@
----
+## Table of Contents
+1. [Overview](#overview)
+2. [Environment Setup](#environment-setup)
+    - [Docker Setup](#docker-setup)
+    - [Ubuntu Environment Setup with CUDA and cuDNN](#ubuntu-environment-setup-with-cuda-and-cudnn)
+3. [Preparing the Data](#preparing-the-data)
+4. [Training](#training)
+5. [Testing](#testing)
+6. [Evaluation](#evaluation)
 
 ## Overview
 
@@ -116,4 +124,4 @@ python evaluation/lfd/eval.py ./datasets/gt_meshes ./pred_meshes
 
 # PCR
 python evaluation/pcr/eval.py ./pred_meshes
-```# points2mesh_pytorch
+```
