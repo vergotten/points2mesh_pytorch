@@ -1,12 +1,13 @@
 ## Table of Contents
 1. [Overview](#overview)
 2. [Environment Setup](#environment-setup)
+3. SQL Libraries and Database Management
     - [Docker Setup](#docker-setup)
     - [Ubuntu Environment Setup with CUDA and cuDNN](#ubuntu-environment-setup-with-cuda-and-cudnn)
-3. [Preparing the Data](#preparing-the-data)
-4. [Training](#training)
-5. [Testing](#testing)
-6. [Evaluation](#evaluation)
+4. [Preparing the Data](#preparing-the-data)
+5. [Training](#training)
+6. [Testing](#testing)
+7. [Evaluation](#evaluation)
 
 ## Overview
 
