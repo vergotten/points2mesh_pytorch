@@ -1,4 +1,13 @@
----
+## Table of Contents
+1. [Overview](#overview)
+2. [SQL Libraries and Database Management](#sql-libraries-and-database-management)
+3. [Environment Setup](#environment-setup)
+    - [Docker Setup](#docker-setup)
+    - [Ubuntu Environment Setup with CUDA and cuDNN](#ubuntu-environment-setup-with-cuda-and-cudnn)
+4. [Preparing the Data](#preparing-the-data)
+5. [Training](#training)
+6. [Testing](#testing)
+7. [Evaluation](#evaluation)
 
 ## Overview
 
@@ -116,4 +125,4 @@ python evaluation/lfd/eval.py ./datasets/gt_meshes ./pred_meshes
 
 # PCR
 python evaluation/pcr/eval.py ./pred_meshes
-```# points2mesh_pytorch
+```
