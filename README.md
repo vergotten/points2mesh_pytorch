@@ -1,7 +1,7 @@
 ## Table of Contents
 1. [Overview](#overview)
 2. [Environment Setup](#environment-setup)
-3. SQL Libraries and Database Management
+3. SQL Libraries and Database Management(#sql-libraries-and-database-management)
     - [Docker Setup](#docker-setup)
     - [Ubuntu Environment Setup with CUDA and cuDNN](#ubuntu-environment-setup-with-cuda-and-cudnn)
 4. [Preparing the Data](#preparing-the-data)
