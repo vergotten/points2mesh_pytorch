@@ -125,8 +125,4 @@ python evaluation/lfd/eval.py ./datasets/gt_meshes ./pred_meshes
 
 # PCR
 python evaluation/pcr/eval.py ./pred_meshes
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> origin/main
