@@ -19,9 +19,11 @@ In addition, the project utilizes CUDA libraries, specifically `spconv`, to effi
 
 ## SQL Libraries and Database Management
 
-This project also serves as a robust framework for handling databases using all major SQL libraries. It provides functionalities for collecting, managing, and visualizing point data for further use in comparison and analysis. The project leverages SQL commands and Python libraries for SQL databases to efficiently manage and manipulate 3D object data, enhancing the project's capabilities in handling complex 3D reconstructions.
+This project is a robust framework for database management using SQL libraries. It offers functionalities for collecting, managing, and visualizing point data, which can be further used for comparison and analysis. The project utilizes SQL commands and Python libraries for SQL databases to efficiently manage and manipulate 3D object data, thereby enhancing the project’s capabilities in handling complex 3D reconstructions.
 
-This combination of advanced neural network architectures, efficient data handling techniques, and comprehensive database management makes this project a truly badass framework for anyone looking to dive deep into the world of 3D data, machine learning, and database management.
+In addition, the project involves the development of neural network architectures, methods, and algorithms for building a knowledge base. This knowledge base is used for classifying, annotating, and predicting the trajectory of objects based on the stream of images obtained from observation systems, including 3D scanning systems.
+
+This combination of advanced neural network architectures, efficient data handling techniques, and comprehensive database management makes this project a highly effective framework for anyone interested in 3D data, machine learning, and database management.
 
 ---
 
